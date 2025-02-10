@@ -1,0 +1,19 @@
+{
+  "collection": "https://api-pre.library.tamu.edu/iiif-service/fedora/collection/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/mark-kevin-james-test-collection-20240924",
+  "devCollection": "https://api-pre.library.tamu.edu/iiif-service/fedora/collection/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/mark-kevin-james-test-collection-20240924",
+  "featured": [
+    "https://api-pre.library.tamu.edu/iiif-service/fedora/presentation/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/mark-kevin-james-test-collection-20240924_objects/2"
+  ],
+  "metadata": ["publisher", "date", "contributor"],
+  "label": { "none": ["London Maps Example for Kevin"] },
+  "summary": {
+    "none": ["A simple show and tell example"]
+  },
+  "theme": {
+    "defaultTheme": "light",
+    "accentColor": "teal",
+    "grayColor": "slate",
+    "radius": "small",
+    "scaling": "100%"
+  }
+}
