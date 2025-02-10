@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://markpbaggett.github.io/london-maps-test
+
+# Sitemaps
+Sitemap: https://markpbaggett.github.io/london-maps-test/sitemap.xml
